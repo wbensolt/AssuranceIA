@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+=======
+# Ignorer les fichiers sensibles
+.env
+>>>>>>> b84860bdc0fff84438e97515e0d0d82959e9ff76
+.venv
+__pycache__
